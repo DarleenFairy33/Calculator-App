@@ -1,0 +1,101 @@
+.encode-sans-semi-expanded-thin {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-extralight {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-light {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-regular {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-medium {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-semibold {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-bold {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-extrabold {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.encode-sans-semi-expanded-black {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.Calculator{
+  background-color: #080808;
+  font-family: "Encode Sans Semi Expanded";
+  font-weight: 200;
+  font-style: normal;
+  text-align: center;
+}
+
+.Header{
+  width: 99%;
+  margin-bottom: 20px;
+  padding-left: 5px;
+  border-radius: 10px;
+  background-color: #474747;
+}
+
+.OTHER-OPS{
+  text-align: center;
+  height: 40px;
+  width: 80px;
+  border: none;
+  border-radius: 5px;
+  background-color: #eba64e;
+  color: #e5e4e4;
+  font-family: "Encode Sans Semi Expanded";
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.NUMBERS{
+  text-align: center;
+  height: 30px;
+  width: 30px;
+  background-color: #eba64e;
+  color: #e5e4e4;
+  font-family: "Encode Sans Semi Expanded";
+  font-weight: 400;
+  border-radius: 5px;
+  border: none;
+}
+
+.SYMB-OPS{
+  height: 25px;
+  width: 25px;
+  margin-left: 8px;
+}

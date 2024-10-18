@@ -1,5 +1,6 @@
 # ReactProgram1
 My first FULL react program.
 
-# Tutorial I Used
-[https://www.youtube.com/watch?v=SqcY0GlETPk](https://www.youtube.com/watch?v=SqcY0GlETPk)
+# Tutorials I Used
+[https://www.youtube.com/watch?v=SqcY0GlETPk](https://www.youtube.com/watch?v=SqcY0GlETPk) 
+[https://www.youtube.com/watch?v=DgRrrOt0Vr8](https://www.youtube.com/watch?v=DgRrrOt0Vr8)
